@@ -1,0 +1,6 @@
+{
+    "credentials": {
+        "APPLICATION_PATH": "https://robotsparebinindustries.com",
+        "CSV_URL": "https://robotsparebinindustries.com/orders.csv"
+    }
+}
